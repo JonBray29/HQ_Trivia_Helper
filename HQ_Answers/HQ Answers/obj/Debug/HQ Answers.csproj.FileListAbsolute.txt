@@ -1,0 +1,59 @@
+E:\Projects\HQ Answers\HQ Answers\bin\Debug\HQ Answers.exe.config
+E:\Projects\HQ Answers\HQ Answers\bin\Debug\HQ Answers.exe
+E:\Projects\HQ Answers\HQ Answers\bin\Debug\HQ Answers.pdb
+E:\Projects\HQ Answers\HQ Answers\obj\Debug\HQ Answers.csprojAssemblyReference.cache
+E:\Projects\HQ Answers\HQ Answers\obj\Debug\HQ_Answers.Form1.resources
+E:\Projects\HQ Answers\HQ Answers\obj\Debug\HQ_Answers.Properties.Resources.resources
+E:\Projects\HQ Answers\HQ Answers\obj\Debug\HQ Answers.csproj.GenerateResource.cache
+E:\Projects\HQ Answers\HQ Answers\obj\Debug\HQ Answers.csproj.CoreCompileInputs.cache
+E:\Projects\HQ Answers\HQ Answers\obj\Debug\HQ Answers.exe
+E:\Projects\HQ Answers\HQ Answers\obj\Debug\HQ Answers.pdb
+E:\Projects\HQ Answers\HQ Answers\bin\Debug\grpc_csharp_ext.x86.dll
+E:\Projects\HQ Answers\HQ Answers\bin\Debug\grpc_csharp_ext.x64.dll
+E:\Projects\HQ Answers\HQ Answers\bin\Debug\libgrpc_csharp_ext.x86.so
+E:\Projects\HQ Answers\HQ Answers\bin\Debug\libgrpc_csharp_ext.x64.so
+E:\Projects\HQ Answers\HQ Answers\bin\Debug\libgrpc_csharp_ext.x86.dylib
+E:\Projects\HQ Answers\HQ Answers\bin\Debug\libgrpc_csharp_ext.x64.dylib
+E:\Projects\HQ Answers\HQ Answers\bin\Debug\Google.Api.CommonProtos.dll
+E:\Projects\HQ Answers\HQ Answers\bin\Debug\Google.Api.Gax.dll
+E:\Projects\HQ Answers\HQ Answers\bin\Debug\Google.Api.Gax.Grpc.dll
+E:\Projects\HQ Answers\HQ Answers\bin\Debug\Google.Apis.Auth.dll
+E:\Projects\HQ Answers\HQ Answers\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+E:\Projects\HQ Answers\HQ Answers\bin\Debug\Google.Apis.Core.dll
+E:\Projects\HQ Answers\HQ Answers\bin\Debug\Google.Apis.dll
+E:\Projects\HQ Answers\HQ Answers\bin\Debug\Google.Apis.PlatformServices.dll
+E:\Projects\HQ Answers\HQ Answers\bin\Debug\Google.Cloud.Vision.V1.dll
+E:\Projects\HQ Answers\HQ Answers\bin\Debug\Google.LongRunning.dll
+E:\Projects\HQ Answers\HQ Answers\bin\Debug\Google.Protobuf.dll
+E:\Projects\HQ Answers\HQ Answers\bin\Debug\Grpc.Auth.dll
+E:\Projects\HQ Answers\HQ Answers\bin\Debug\Grpc.Core.dll
+E:\Projects\HQ Answers\HQ Answers\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\HQ Answers\HQ Answers\bin\Debug\System.Interactive.Async.dll
+E:\Projects\HQ Answers\HQ Answers\bin\Debug\System.Net.Http.dll
+E:\Projects\HQ Answers\HQ Answers\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Projects\HQ Answers\HQ Answers\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Projects\HQ Answers\HQ Answers\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Projects\HQ Answers\HQ Answers\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Projects\HQ Answers\HQ Answers\bin\Debug\Google.Api.CommonProtos.pdb
+E:\Projects\HQ Answers\HQ Answers\bin\Debug\Google.Api.CommonProtos.xml
+E:\Projects\HQ Answers\HQ Answers\bin\Debug\Google.Api.Gax.pdb
+E:\Projects\HQ Answers\HQ Answers\bin\Debug\Google.Api.Gax.xml
+E:\Projects\HQ Answers\HQ Answers\bin\Debug\Google.Api.Gax.Grpc.pdb
+E:\Projects\HQ Answers\HQ Answers\bin\Debug\Google.Api.Gax.Grpc.xml
+E:\Projects\HQ Answers\HQ Answers\bin\Debug\Google.Apis.xml
+E:\Projects\HQ Answers\HQ Answers\bin\Debug\Google.Apis.Auth.xml
+E:\Projects\HQ Answers\HQ Answers\bin\Debug\Google.Apis.Core.xml
+E:\Projects\HQ Answers\HQ Answers\bin\Debug\Google.Cloud.Vision.V1.pdb
+E:\Projects\HQ Answers\HQ Answers\bin\Debug\Google.Cloud.Vision.V1.xml
+E:\Projects\HQ Answers\HQ Answers\bin\Debug\Google.LongRunning.pdb
+E:\Projects\HQ Answers\HQ Answers\bin\Debug\Google.LongRunning.xml
+E:\Projects\HQ Answers\HQ Answers\bin\Debug\Google.Protobuf.xml
+E:\Projects\HQ Answers\HQ Answers\bin\Debug\Grpc.Auth.pdb
+E:\Projects\HQ Answers\HQ Answers\bin\Debug\Grpc.Auth.xml
+E:\Projects\HQ Answers\HQ Answers\bin\Debug\Grpc.Core.pdb
+E:\Projects\HQ Answers\HQ Answers\bin\Debug\Grpc.Core.xml
+E:\Projects\HQ Answers\HQ Answers\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\HQ Answers\HQ Answers\bin\Debug\System.Interactive.Async.xml
+E:\Projects\HQ Answers\HQ Answers\obj\Debug\HQ Answers.csproj.CopyComplete
+E:\Projects\HQ Answers\HQ Answers\bin\Debug\GoogleCSE.dll
+E:\Projects\HQ Answers\HQ Answers\bin\Debug\GoogleCSE.pdb
